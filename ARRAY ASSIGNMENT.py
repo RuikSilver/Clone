@@ -1,5 +1,8 @@
 # ARRAY ASSIGNMENT
 # problem 1. print your first and last name
+from types import ModuleType
+
+
 print('Ryan Burgin')
 # problem 2. In the array.py create an array named 'cars' with the following elements in this order ---- Ford,Chrysler,Dodge,Ram,Jeep,Chevy,GMC (use single quotes for each element)EX: 'Ford' not "Ford" spelling matters
 thislist = ['Ford', 'Chrysler', 'Dodge', 'Ram', 'Jeep', 'Chevy', 'GMC']
@@ -32,5 +35,6 @@ print(thislist)
 # problem 16. create a variable called my_array_length with a value of the cars array length (spelling, capitilization, and spaces matter)
 my_array_length = 
 # problem 17. create a variable called array_string with a value of 'The length of my array is ' (spelling, capitilization, and spaces matter)
-
+array_string = 'value of cars array length'
 # problem 18. print array_string concatenated with my_array_length to the console
+print(my_array_length
